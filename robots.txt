@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /.claude/
+Disallow: /.vscode/
+
+Sitemap: https://psychiatre-laurent.fr/sitemap.xml
